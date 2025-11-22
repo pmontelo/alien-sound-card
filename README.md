@@ -10,7 +10,8 @@ I hope the information here preserves the memories of the alien sounding speech 
 
 I retain all rights to the Talking Doorbell, otherwise have fun.
 If you want to make some cool alien talking doorbells to sell, please contact me.
-Please enjoy!
+If you wish to make sell copies of the sound card for profit, please contact me.
+Otherwise, please enjoy and have fun!
 
 ### License
 All BASIC programs are covered under the MIT license here.
