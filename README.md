@@ -1,5 +1,5 @@
 # alien-sound-card
-Apple II Speech Card using SP0256A-AL2
+Apple ][ Speech Card using the GI SP0256A-AL2 Speech Processor Chip
 
 ### Description
 This is a speech card that I created for the Apple ][ computer in 1988 using the GI SP0256A-AL2 Speech Processor chip sold in RadioShack stores.
