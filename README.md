@@ -4,7 +4,7 @@ Apple ][ Speech Card using the GI SP0256A-AL2 Speech Processor Chip
 ### Description
 This is a speech card that I designed and built for the Apple ][ computer in 1988. It uses the GI SP0256A-AL2 Speech Processor chip that was sold in RadioShack stores.
 I used this Apple ][ card to develop the speech for a talking doorbell project, that I designed and built using the same speech chip, and the Intel i8741 microcontroller.
-This talking doorbell was never made into a product, that is still something I might do in the future... who knows lol.
+This talking doorbell was never made into a product, but that is still something I might do in the future... who knows lol.
 
 I hope the information here preserves the memories of the alien sounding speech technology that was available to hobbyists at RadioShack stores.
 
