@@ -8,7 +8,7 @@ This talking doorbell was never made into a product, that is still something I m
 
 I hope the information here preserves the memories of the alien sounding speech technology that was available to hobbyists at RadioShack stores.
 
-I retain all rights to the doorbell.
+I retain all rights to the doorbell, otherwise have fun.
 Please enjoy!
 
 ### License
