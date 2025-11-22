@@ -7,4 +7,4 @@
 [General Instrument SP0264 Narrator Speech Processor data sheet](General_Instrument-SP0264_Narrator_Speech_Processor-data_sheet.pdf)
 
 ### Allophones.md
-[How to convert english to allphones](Allophones.md)
+[How to convert English to Allphones](Allophones.md)
