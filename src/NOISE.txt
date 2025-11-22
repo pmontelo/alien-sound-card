@@ -1,0 +1,8 @@
+ 5 A = 5
+ 10 SLOT = 7
+ 15 P = 49280 + (SLOT * 16)
+ 16  PRINT A
+ 20  IF  PEEK (P) > 127 THEN 20
+ 30  POKE P,A
+ 40  IF A = 63 THEN  RUN 
+ 50 A = A + 1: GOTO 20

@@ -1,0 +1,7 @@
+ 5 A = 5
+ 10 SLOT = 7
+ 15 P = 49280 + (SLOT * 16)
+ 16  PRINT A
+ 20  IF  PEEK (P) > 127 THEN 20
+ 30  POKE P,A
+ 50 A =  INT ( RND (1) * 59) + 5: GOTO 15
