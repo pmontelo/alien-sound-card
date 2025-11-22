@@ -13,4 +13,8 @@ Please enjoy!
 
 ### License
 All BASIC programs are covered under the MIT license here.
+
+### Copyright notice
+Microchip, Inc. holds the copyrights to the SP0256-AL2 design and ROM Image, and to the CTS256A-AL2 ROM Image. Microchip retains the intellectual property rights to the algorithms and data the emulated devices SP0256 and CTS256A-AL2 contain.
+
 The Talking Doorbell project is Copyright 1988 Patrick Montelo, All Rights Reserved.
