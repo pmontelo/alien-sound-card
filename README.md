@@ -19,3 +19,7 @@ All BASIC programs are covered under the MIT license here.
 Microchip, Inc. holds the copyrights and intellectual property rights to the SP0256-AL2 design.
 
 The Talking Doorbell is Copyright 1988 Patrick Montelo, All Rights Reserved.
+
+### Building The Sound Card
+All the information you need to build the sound card is in the [images](images) folder.
+Please see the [schematic](https://github.com/pmontelo/alien-sound-card/blob/main/images/Apple%20%5D%5B%20Speech%20Card%20Schematic.jpg)
